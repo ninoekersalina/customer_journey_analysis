@@ -1,4 +1,4 @@
-# customer_journey_analysis
+# Customer Journey Analysis
 Exploratory Data Analysis on E-commerce Customer Journey
 
 
